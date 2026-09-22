@@ -147,13 +147,13 @@ export default function App() {
                   "We look forward to celebrating our special moments with you!"
                 </p>
 
-                {/* RSVP Mallani Family */}
+                {/* RSVP Laddha Family */}
                 <div className="mt-4 pt-4 border-t border-[#8c6227]/25 w-full max-w-xs text-center flex flex-col items-center">
                   <span className="font-serif-royal text-xs uppercase tracking-[0.25em] text-[#8c6227] font-bold">
                     RSVP
                   </span>
                   <span className="font-serif-royal text-lg sm:text-xl font-bold text-[#5c131a] mt-0.5 tracking-wide">
-                    Mallani Family
+                    Laddha Family
                   </span>
                 </div>
 
